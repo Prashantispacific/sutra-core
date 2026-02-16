@@ -1,3 +1,3 @@
-# SUTRA_BLUEPRINT_v5.1
+# SUTRA Blueprint
 
-(Include the full content of the existing file here)
+This is the SUTRA blueprint documentation. Please refer to the following details...
