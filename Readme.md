@@ -1,3 +1,0 @@
-# SUTRA Blueprint
-
-This is the SUTRA blueprint documentation. Please refer to the following details...
